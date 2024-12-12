@@ -14,6 +14,7 @@
 - [Medium](https://medium.com/happy-hacking-space)
 - [YouTube](https://www.youtube.com/@HappyHackingSpace)
 - [Events](https://happyhacking.space/events)
+- [Kick](https://kick.com/happyhackingspac3)
 - [Kommunity](https://kommunity.com/diyarbakir-happy-hacking-space)
 
 ## Canva
