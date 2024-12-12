@@ -2,7 +2,18 @@
 
 ## Table of Contents
 
+- [Links](#links)
 - [Canva](#canva)
+
+## Links
+
+- [Instagram](https://www.instagram.com/happyhackingspace/)
+- [X](https://x.com/happyhackings)
+- [LinkedIn](https://www.linkedin.com/company/happy-hacking-space)
+- [GitHub](https://github.com/HappyHackingSpace)
+- [Medium](https://medium.com/happy-hacking-space)
+- [YouTube](https://www.youtube.com/@HappyHackingSpace)
+- [Kommunity](https://kommunity.com/diyarbakir-happy-hacking-space)
 
 ## Canva
 
