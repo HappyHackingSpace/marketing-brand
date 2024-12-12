@@ -13,6 +13,7 @@
 - [GitHub](https://github.com/HappyHackingSpace)
 - [Medium](https://medium.com/happy-hacking-space)
 - [YouTube](https://www.youtube.com/@HappyHackingSpace)
+- [Events](https://happyhacking.space/events)
 - [Kommunity](https://kommunity.com/diyarbakir-happy-hacking-space)
 
 ## Canva
